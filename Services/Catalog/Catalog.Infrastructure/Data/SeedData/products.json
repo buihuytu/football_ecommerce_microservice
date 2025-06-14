@@ -1,0 +1,98 @@
+﻿[
+  {
+    "Id": "1",
+    "Name": "Bóng FIFA Club World Cup 25 Pro",
+    "Description": "Năm 2025, câu lạc bộ bóng đá xuất sắc nhất thế giới sẽ đăng quang tại Hoa Kỳ. Trái bóng adidas Pro táo bạo này tôn vinh nước chủ nhà với thiết kế lấy cảm hứng từ những lá cờ uốn lượn cùng các ngôi sao và sọc kẻ phủ kín. Là trái bóng thi đấu chính thức của giải đấu, quả bóng đá này có kết cấu không đường may và ruột bóng bằng cao su butyl cao cấp cho lối chơi ổn định. Tem chứng nhận FIFA Quality Pro và logo Mundial de Clubes FIFA hoàn thiện thiết kế bắt mắt.",
+    "Price": 3300000,
+    "ImageFile": "images/products/bong_fifa_club_world_cup_25_pro.jpg",
+    "Summary": "Trái bóng thi đấu chính thức của giải đấu Mundial de Clubes FIFA 2025.",
+    "Types": {
+      "Id": "3",
+      "Name": "Bóng"
+    },
+    "Brands": {
+      "Id": "1",
+      "Name": "Adidas"
+    }
+  },
+  {
+    "Id": "2",
+    "Name": "Giày đá bóng F50 League dành cho sân cỏ nhân tạo",
+    "Description": "Khai phá tốc độ để thể hiện trọn vẹn cá tính trên sân cỏ. Cảm nhận nhịp đập tốc độ cùng giày đá bóng adidas F50 – sinh ra để dẫn đầu mọi cuộc đua. Thu hút mọi ánh nhìn với họa tiết Sprintgrid ấn tượng, phần thân giày Fiberskin của dòng giày League tích hợp lưỡi gà Tunnel Tongue linh hoạt, đảm bảo độ ôm khít vững chắc trong từng pha bứt tốc. Đệm giữa EVA kết hợp cùng đế ngoài cao su có gai mang đến sự êm ái và bám chắc, giúp bạn bứt tốc tự tin trên mặt sân cỏ nhân tạo.",
+    "Price": 2400000,
+    "ImageFile": "images/products/giay_da_bong_F50_League_danh_cho_san_co_nhan_tao.jpg",
+    "Summary": "Giày đá bóng siêu nhẹ giúp bạn bứt tốc tối đa trên mặt sân cỏ nhân tạo.",
+    "Types": {
+      "Id": "1",
+      "Name": "Giày"
+    },
+    "Brands": {
+      "Id": "1",
+      "Name": "Adidas"
+    }
+  },
+  {
+    "Id": "3",
+    "Name": "Tất Milano 23",
+    "Description": "Giờ đây bạn có thể trút bỏ mọi vướng bận trên đôi chân và tập trung vào cuộc chơi. Đôi tất bóng đá cổ cao chuyên dụng adidas này có cấu trúc nâng đỡ vòm bàn chân và các vùng đệm tại những vị trí cần thiết. Công nghệ AEROREADY thấm hút ẩm giúp đôi chân bạn luôn khô ráo khi trui rèn kỹ năng. Làm từ một loạt chất liệu tái chế và có chứa tối thiểu 40% thành phần tái chế, sản phẩm này đại diện cho một trong số rất nhiều các giải pháp của chúng tôi hướng tới chấm dứt rác thải nhựa.",
+    "Price": 300000,
+    "ImageFile": "images/products/tat_milano_23.jpg",
+    "Summary": "Đôi tất thấm hút ẩm có sử dụng chất liệu tái chế.",
+    "Types": {
+      "Id": "7",
+      "Name": "Tất"
+    },
+    "Brands": {
+      "Id": "1",
+      "Name": "Adidas"
+    }
+  },
+  {
+    "Id": "4",
+    "Name": "Giày đá bóng Nike Phantom 6 Low Elite",
+    "Description": "Bạn bị ám ảnh bởi độ chính xác? Chúng tôi cũng vậy. Đó là lý do tại sao chúng tôi thiết kế Phantom 6 Elite với Gripknit mang tính cách mạng để tăng cường độ chính xác của bạn. Kết cấu bám dính giúp chân bạn gần bóng hơn và giúp bạn kiểm soát mọi cơ hội—vì trượt bóng không phải là một lựa chọn. Nó mang lại cho bạn lợi thế ghi điểm không công bằng bằng cách kết hợp với tấm bám Cyclone 360 ​​cho tất cả những cú cắt nhanh đó.",
+    "Price": 8219000,
+    "ImageFile": "images/products/giay_da_bong_nike_phantom_6_low_elite.jpg",
+    "Summary": "Giày bóng đá sân cứng.",
+    "Types": {
+      "Id": "1",
+      "Name": "Giày"
+    },
+    "Brands": {
+      "Id": "6",
+      "Name": "Nike"
+    }
+  },
+  {
+    "Id": "5",
+    "Name": "Áo Real Madrid US Pack",
+    "Description": "Hai thế giới thể thao giao thoa trong chiếc áo Real Madrid này từ adidas. Kết hợp phong cách áo bóng chày đậm chất Mỹ với thiết kế lấy cảm hứng từ bóng đá truyền thống, chiếc áo này nổi bật với sọc dọc, hàng cúc cài và huy hiệu Los Blancos. Dù bạn cổ vũ trên khán đài hay thư giãn tại nhà, chiếc áo nổi bật này vẫn mang đến phong cách thể thao cho mọi dịp.",
+    "Price": 1800000,
+    "ImageFile": "images/products/ao_real_madrid_us_pack.jpg",
+    "Summary": "Áo bóng chày khuy cài dành cho fan Real Madrid.",
+    "Types": {
+      "Id": "2",
+      "Name": "Quần áo"
+    },
+    "Brands": {
+      "Id": "1",
+      "Name": "Adidas"
+    }
+  }
+  {
+    "Id": "6",
+    "Name": "Giày Đá Bóng Turf Predator Club",
+    "Description": "Tự tin ra sân với đôi giày đá bóng adidas Predator Club giúp bạn ghi bàn. Thân giày bằng chất liệu tổng hợp có lớp lót bằng vải dệt mềm mại cho cảm giác thoải mái. Lật ngược giày lại, bạn sẽ có đế đinh bằng cao su cho lối chơi bóng đá chuẩn xác trên sân cỏ nhân tạo. Sản phẩm này có chứa tối thiểu 20% chất liệu tái chế. Bằng cách tái sử dụng các chất liệu đã được tạo ra, chúng tôi góp phần giảm thiểu lãng phí và hạn chế phụ thuộc vào các nguồn tài nguyên hữu hạn, cũng như giảm phát thải từ các sản phẩm mà chúng tôi sản xuất.",
+    "Price": 1600000,
+    "ImageFile": "images/products/giay_da_bong_turf_predator_club.jpg",
+    "Summary": "Phá lưới với đôi giày đá bóng F50 dành cho sân cỏ nhân tạo và có sử dụng chất liệu tái chế.",
+    "Types": {
+      "Id": "1",
+      "Name": "Giày"
+    },
+    "Brands": {
+      "Id": "1",
+      "Name": "Adidas"
+    }
+  }
+]

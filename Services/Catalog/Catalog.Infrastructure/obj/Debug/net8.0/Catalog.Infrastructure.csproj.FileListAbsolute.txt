@@ -1,0 +1,17 @@
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Catalog.Infrastructure.deps.json
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Catalog.Infrastructure.dll
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Catalog.Infrastructure.pdb
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Catalog.Application.dll
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Catalog.Core.dll
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Catalog.Application.pdb
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Catalog.Core.pdb
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.csproj.AssemblyReference.cache
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.AssemblyInfoInputs.cache
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.AssemblyInfo.cs
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.csproj.CoreCompileInputs.cache
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog..168C4A48.Up2Date
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.dll
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\refint\Catalog.Infrastructure.dll
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.pdb
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\ref\Catalog.Infrastructure.dll

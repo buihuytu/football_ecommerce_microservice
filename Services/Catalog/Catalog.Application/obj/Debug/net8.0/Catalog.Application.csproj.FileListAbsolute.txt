@@ -1,0 +1,15 @@
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Application.deps.json
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Application.dll
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Application.pdb
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Core.dll
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Core.pdb
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.csproj.AssemblyReference.cache
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.AssemblyInfoInputs.cache
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.AssemblyInfo.cs
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.csproj.CoreCompileInputs.cache
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog..75771DFE.Up2Date
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.dll
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\refint\Catalog.Application.dll
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.pdb
+E:\.NETCore\Microservice\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\ref\Catalog.Application.dll

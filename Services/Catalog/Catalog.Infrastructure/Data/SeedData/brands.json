@@ -1,0 +1,38 @@
+﻿[
+  {
+    "Id": "1",
+    "Name": "Adidas"
+  },
+  {
+    "Id": "2",
+    "Name": "Asics"
+  },
+  {
+    "Id": "3",
+    "Name": "Jogarbola"
+  },
+  {
+    "Id": "4",
+    "Name": "Kamito"
+  },
+  {
+    "Id": "5",
+    "Name": "Mizuno"
+  },
+  {
+    "Id": "6",
+    "Name": "Nike"
+  },
+  {
+    "Id": "7",
+    "Name": "Puma"
+  },
+  {
+    "Id": "8",
+    "Name": "Wika"
+  },
+  {
+    "Id": "9",
+    "Name": "Zocker"
+  }
+]

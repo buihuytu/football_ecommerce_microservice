@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.NETCore\\Microservice\\Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6362B25E-9A39-43DC-9029-366C80B3EAD7}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|e:\\.netcore\\microservice\\ecommerce\\services\\catalog\\catalog.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6362B25E-9A39-43DC-9029-366C80B3EAD7}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|solutionrelative:services\\catalog\\catalog.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6362B25E-9A39-43DC-9029-366C80B3EAD7}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|e:\\.netcore\\microservice\\ecommerce\\services\\catalog\\catalog.core\\entities\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6362B25E-9A39-43DC-9029-366C80B3EAD7}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|solutionrelative:services\\catalog\\catalog.core\\entities\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6362B25E-9A39-43DC-9029-366C80B3EAD7}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|e:\\.netcore\\microservice\\ecommerce\\services\\catalog\\catalog.core\\repositories\\ityperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6362B25E-9A39-43DC-9029-366C80B3EAD7}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|solutionrelative:services\\catalog\\catalog.core\\repositories\\ityperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6362B25E-9A39-43DC-9029-366C80B3EAD7}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|e:\\.netcore\\microservice\\ecommerce\\services\\catalog\\catalog.core\\repositories\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6362B25E-9A39-43DC-9029-366C80B3EAD7}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|solutionrelative:services\\catalog\\catalog.core\\repositories\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6362B25E-9A39-43DC-9029-366C80B3EAD7}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|e:\\.netcore\\microservice\\ecommerce\\services\\catalog\\catalog.core\\entities\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6362B25E-9A39-43DC-9029-366C80B3EAD7}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|solutionrelative:services\\catalog\\catalog.core\\entities\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6362B25E-9A39-43DC-9029-366C80B3EAD7}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|e:\\.netcore\\microservice\\ecommerce\\services\\catalog\\catalog.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6362B25E-9A39-43DC-9029-366C80B3EAD7}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|solutionrelative:services\\catalog\\catalog.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 158,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:481754963:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "E:\\.NETCore\\Microservice\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Repositories\\IProductRepository.cs",
+              "ToolTip": "E:\\.NETCore\\Microservice\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Core\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:33:02.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITypeRepository.cs",
+              "DocumentMoniker": "E:\\.NETCore\\Microservice\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Repositories\\ITypeRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Repositories\\ITypeRepository.cs",
+              "ToolTip": "E:\\.NETCore\\Microservice\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Repositories\\ITypeRepository.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Core\\Repositories\\ITypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:31:55.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBrandRepository.cs",
+              "DocumentMoniker": "E:\\.NETCore\\Microservice\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Repositories\\IBrandRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Repositories\\IBrandRepository.cs",
+              "ToolTip": "E:\\.NETCore\\Microservice\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Repositories\\IBrandRepository.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Core\\Repositories\\IBrandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:30:35.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "E:\\.NETCore\\Microservice\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Entities\\ProductType.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Entities\\ProductType.cs",
+              "ToolTip": "E:\\.NETCore\\Microservice\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Entities\\ProductType.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Core\\Entities\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:27:41.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductBrand.cs",
+              "DocumentMoniker": "E:\\.NETCore\\Microservice\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Entities\\ProductBrand.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Entities\\ProductBrand.cs",
+              "ToolTip": "E:\\.NETCore\\Microservice\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Entities\\ProductBrand.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Core\\Entities\\ProductBrand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:26:31.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\.NETCore\\Microservice\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Entities\\Product.cs",
+              "ToolTip": "E:\\.NETCore\\Microservice\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:42:02.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
