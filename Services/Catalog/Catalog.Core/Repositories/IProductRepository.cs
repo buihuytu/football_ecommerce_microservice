@@ -10,9 +10,9 @@ namespace Catalog.Core.Repositories
 
         Task<IEnumerable<Product>> GetProductsByName(string name);
 
-        Task<IEnumerable<Product>> GetProductsByType(string typeId);
+        Task<IEnumerable<Product>> GetProductsByTypeId(string typeId);
 
-        Task<IEnumerable<Product>> GetProductsByBrand(string brandId);
+        Task<IEnumerable<Product>> GetProductsByBrandId(string brandId);
 
         Task<Product> CreateProduct(Product product);
         Task<bool> UpdateProduct(Product product);

@@ -1,14 +1,65 @@
-# Build artifacts
+############################
+# Build & Compile
+############################
 bin/
 obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.vspscc
+*.vssscc
 
+############################
 # User-specific files
+############################
 *.user
 *.suo
+*.userosscache
+*.sln.docstates
 
-# Visual Studio Code
+############################
+# Visual Studio
+############################
 .vscode/
+.vs/
+*.dbmdl
 
-# System files
-.DS_Store
-Thumbs.db
+############################
+# NuGet
+############################
+*.nupkg
+*.snupkg
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+*.csproj.nuget.g.targets
+*.csproj.nuget.dgspec.json
+
+############################
+# Temporary files
+############################
+*.tmp
+*.bak
+*.swp
+*.sln.ide
+*.~*
+
+############################
+# File lists & references
+############################
+*.csproj.FileListAbsolute.txt
+*.AssemblyReference.cache
+*.CoreCompileInputs.cache
+*.AssemblyInfoInputs.cache
+*.assets.cache
+
+############################
+# Others
+############################
+TestResults/
+Releases/
+*.tlog/
+*.ide/
