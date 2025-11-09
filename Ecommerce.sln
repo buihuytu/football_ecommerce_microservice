@@ -47,6 +47,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordering.Application", "Ser
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordering.Infrastructure", "Services\Ordering\Ordering.Infrastructure\Ordering.Infrastructure.csproj", "{18CCE752-1C56-48D2-92CF-5CB0283EB79D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{AEB6B61C-AAC7-4986-84F1-E83B2D173D04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBus.Messages", "Infrastructure\EventBus.Messages\EventBus.Messages.csproj", "{BF8BEEB2-8E62-493E-BE06-30A208DBFB69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Logging", "Infrastructure\Common.Logging\Common.Logging.csproj", "{F39147FA-EABF-4554-AEEF-2D646FFE9970}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,6 +127,14 @@ Global
 		{18CCE752-1C56-48D2-92CF-5CB0283EB79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18CCE752-1C56-48D2-92CF-5CB0283EB79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18CCE752-1C56-48D2-92CF-5CB0283EB79D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF8BEEB2-8E62-493E-BE06-30A208DBFB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8BEEB2-8E62-493E-BE06-30A208DBFB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8BEEB2-8E62-493E-BE06-30A208DBFB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8BEEB2-8E62-493E-BE06-30A208DBFB69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F39147FA-EABF-4554-AEEF-2D646FFE9970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39147FA-EABF-4554-AEEF-2D646FFE9970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39147FA-EABF-4554-AEEF-2D646FFE9970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39147FA-EABF-4554-AEEF-2D646FFE9970}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -146,5 +160,7 @@ Global
 		{515D86A4-7C52-4243-8A4D-B3280175BBA0} = {59803A3C-3856-4273-87CF-7F7A34E7182A}
 		{9909C7C8-DAA5-4315-B661-62A279F6AC29} = {59803A3C-3856-4273-87CF-7F7A34E7182A}
 		{18CCE752-1C56-48D2-92CF-5CB0283EB79D} = {59803A3C-3856-4273-87CF-7F7A34E7182A}
+		{BF8BEEB2-8E62-493E-BE06-30A208DBFB69} = {AEB6B61C-AAC7-4986-84F1-E83B2D173D04}
+		{F39147FA-EABF-4554-AEEF-2D646FFE9970} = {AEB6B61C-AAC7-4986-84F1-E83B2D173D04}
 	EndGlobalSection
 EndGlobal
